@@ -2,6 +2,10 @@
 
 BotDiscordForFun est un bot Discord écrit en Python, conçu pour ajouter du fun à votre serveur Discord.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh5MmRpcXBhbjJyY3hpMWlhbXBiODRjaTh3NGZpaXg5amdqMWtqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7xkxbhryQO7hm/giphy.gif" />
+</p>
+
 ## 🚀 Fonctionnalités
 
 - `/update` : Affiche les mises à jour du bot 🤖
@@ -17,6 +21,10 @@ BotDiscordForFun est un bot Discord écrit en Python, conçu pour ajouter du fun
 2. Installez les dépendances avec `pip install -r requirements.txt`
 3. Créez un fichier `.env` et ajoutez votre token Discord
 4. Lancez le bot avec `python bot.py`
+
+## 🎥️ Démonstration
+
+![Imgur](https://imgur.com/a0nrVO4.png)
 
 ## ⚠️ Attention
 
